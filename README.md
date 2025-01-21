@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/15Galan/42_project-readmes/refs/heads/master/banners/cursus/projects/libft-light.png#gh-light-mode-only" />
-  <img src="https://img.shields.io/badge/status-finished-green" />
-  <img src="https://img.shields.io/badge/score-125-blue" /><br/> 
+  <img src="https://img.shields.io/badge/status-finished-darkgreen" />
+  <img src="https://img.shields.io/badge/score-125-darkblue" /><br/> 
    <a href="/README-en.md">English<a> · <b>Español</b>
 </div> 
 
